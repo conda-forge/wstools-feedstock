@@ -1,7 +1,7 @@
 {% set github_owner = "pycontribs" %}
 {% set name = "wstools" %}
-{% set version = "0.4.6" %}
-{% set sha256 = "77f0bcd0fffd50cc2ca5e2a79f195cea5d76b15b6a0573de6880604d088bfccc" %}
+{% set version = "0.4.7" %}
+{% set sha256 = "00912007a82f9d5a098df074b1f33af47448ad34c6c7bd0333c7a5259283a920" %}
 
 package:
   name: {{ name|lower }}
